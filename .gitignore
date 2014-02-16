@@ -1,0 +1,19 @@
+# Overall (Eclipse)
+.classpath
+.project
+.settings
+
+# Maven
+target
+
+# Scala
+.cache
+lib_managed/
+
+# Play
+project/project
+project/target
+.target
+
+# Vim
+tags
